@@ -2,7 +2,8 @@
 
 The open-source community has given a lot of open-source software and libraries to developers. This is just a small step to give something back to the open-source community. .
 
-Check below repo for more information
+Check more information about contribution - 
+
 https://github.com/vijaykilledar/evtmon
 
 <!---
